@@ -1,3 +1,3 @@
 # git-merge-practice
 GitHub practice
-hehe
+"This is the Git Merge Practice Repository!"
